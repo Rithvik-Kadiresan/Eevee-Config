@@ -21,7 +21,7 @@ def main(context):
     bpy.ops.object.lightprobe_add(type='GRID')
     bpy.ops.transform.resize(value=(5, 5, 5), orient_type='GLOBAL', orient_matrix=((1, 0, 0), (0, 1, 0), (0, 0, 1)), orient_matrix_type='GLOBAL', mirror=True, use_proportional_edit=False, proportional_edit_falloff='SMOOTH', proportional_size=1, use_proportional_connected=False, use_proportional_projected=False)
     bpy.ops.collection.create()
-    bpy.ops.object.move_to_collection(collection_index=0, is_new=True, new_collection_name="Light Probe"    
+    bpy.ops.object.move_to_collection(collection_index=0, is_new=True, new_collection_name="Light Probe")    
     bpy.context.scene.eevee.gi_auto_bake = True
     bpy.context.scene.eevee.use_ssr_refraction = True
     bpy.context.space_data.shading.type = 'RENDERED'
