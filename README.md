@@ -1,5 +1,5 @@
 
-Eevee Config is a useful add-on that configures all Eevee settings such as Bloom, S.S.R with Refraction, Motion Blur and Ambient Occulusion all with one hotkey = CTRL E. Eevee Config also adds a Light Probe and turns on Auto Baking Lighting all with the same hotkey.
+Eevee Config is a useful add-on that configures all Eevee settings such as Bloom, S.S.R with Refraction, Motion Blur and Ambient Occulusion all with one hotkey = CTRL E. Eevee Config also adds a Light Probe and turns on Auto Baking Lighting all with the same hotkey. This can also be done with a button created by this addon under Scene Settings> Eevee Config.
 
 
 This addon was created by Rithvik Kadiresan, if you would like to see more of my work please visit:
