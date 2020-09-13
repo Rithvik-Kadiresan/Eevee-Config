@@ -10,7 +10,7 @@ My ArtStation: https://www.artstation.com/rk_productions
 
 My Portfolio: https://theartofrithvikkadiresan.blogspot.com/
 
-My website: https://rk-productions.webflow.io/
+My website: https://rithvikkadiresan.wixsite.com/rk-productions
 
 CG meetup: https://www.cgmeetup.com/rkproductions
 
